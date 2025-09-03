@@ -24,9 +24,9 @@ Fabric SPA is a full-stack laundry and dry-cleaning platform that integrates AI-
 	4.	Staff processes the booking.
 
  🖼 Screenshots
-	•	Homepage
-	•	Fabric Type Detector
-	•	Service Booking
+	•	Homepage(https://github.com/user-attachments/assets/a4483f62-6b25-43e9-945e-7efdd2b98fba)
+    •	Fabric Type Detector(https://github.com/user-attachments/assets/d70775da-4192-461b-9d16-493e34ea3203)
+    •	Service Booking(https://github.com/user-attachments/assets/cd22b9d1-c90a-4c12-b491-96046dc1cfe1)
 
  How It Works
 	1.	User logs into the website.
